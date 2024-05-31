@@ -1,0 +1,15 @@
+# how to create a new project
+
+- in terminal, use (venv)
+- type: django-admin startproject config .
+
+# to run server in django
+
+- in terminal, use (venv)
+- type: python3 manage.py runserver
+
+# tutorial on how to build url file paths in urls.py in the """ """
+
+# tip: collapse the folder you're not currently using to avoid confusion
+
+# DIRS - [str(BASE_DIR.joinpath("templates"))]
